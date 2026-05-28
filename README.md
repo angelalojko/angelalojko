@@ -13,7 +13,7 @@ Take a look at my core public codebases pinned directly to this profile:
 * **Overtime Board Management System:** A full-stack Django/React platform modeled after complex, real-world public safety staffing workflows.
 * **Full-Stack Polish Recipe Web App:** A React & Django REST web application featuring custom backend Trie auto-completion and Pandas data optimization.
 * **Password Dictionary Attack Tool:** A Python credential-recovery engine utilizing brute-force execution and n-gram frequency analysis.
-* **Huffman Encoding Compression System:** A lossless binary compression and decompression tool showcasing priority queues and bit manipulation.
+* **Autocomplete Text Prediction Engine:** A high-performance prefix-tree (Trie) system comparing Static, Dynamic, and HashMap node architectures to analyze empirical time/space complexity trade-offs.
 
 *Note: My remaining project repositories (including my Aviation Accident Prediction Engine, Relational Hospital Database, and Object-Oriented Game Architectures) are kept private, but code samples are happily provided upon request!*
 
